@@ -26,4 +26,4 @@ The application is structured into several key components:
 
 ## Conclusion
 
-Tenmo is an intuitive and user-friendly application aimed at simplifying money transfers among peers. It leverages a robust architecture to provide a smooth experience while ensuring secure transactions.
+Tenmo is an intuitive and user-friendly application aimed at simplifying money transfers among peers. It leverages a robust architecture to provide a smooth experience while ensuring secure transactions..
